@@ -1,0 +1,33 @@
+.country {
+    border: 2px solid skyblue;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+
+    width: 20rem;
+    height: 32rem;
+
+    font-size: 15px;
+}
+
+.img {
+    width: 150px;
+}
+
+.btn {
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.visit_title {
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.visited {
+    background: rgb(64, 237, 177);
+}
+
+.non_Visited {
+    background: rgb(248, 153, 193);
+}
